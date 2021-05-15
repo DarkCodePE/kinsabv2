@@ -2215,7 +2215,9 @@ nav.main-menu .megamenu-content .title{
     background-attachment: scroll;
 }
 .footer .footer-logo img {
-    max-height: 37px;
+    /* max-height: 37px; */
+    max-height: 62px;
+    width: 192px;
 }
 .footer .widget .widget-title { 
     font-weight: 700;
@@ -2337,7 +2339,7 @@ nav.main-menu .megamenu-content .title{
     font-size: 30px;
     line-height: 35px;
     margin-bottom: 0;
-    padding-right: 160px;
+    /* padding-right: 160px; */                                                             
 }
 .widget.offer_widget h3 {
     font-size: 21px;

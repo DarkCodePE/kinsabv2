@@ -1554,7 +1554,7 @@ ul.social-icons{
 ------------------------*/
 /** SiteBrand(logo) **/
 .site-branding img {
-    max-height: 45px;
+    max-height: 60px;
 }
 .site-branding{
     display: flex;

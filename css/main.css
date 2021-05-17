@@ -822,7 +822,48 @@ article.ttm-blog-classic .ttm-box-post-date .ttm-entry-date,
     background-color: #259BCC; 
 }
 
-
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab:nth-child(1) > a:hover{
+    background-color: #259BCC; 
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab.active:nth-child(1) > a{
+    background-color: #259BCC; 
+    border-color: #259BCC;
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab:nth-child(2) > a:hover{
+    background-color: #259BCC; 
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab.active:nth-child(2) > a{
+    background-color: #259BCC; 
+    border-color: #259BCC;
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab:nth-child(3) > a:hover{
+    background-color: #ECBF34; 
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab.active:nth-child(3) > a{
+    background-color: #ECBF34; 
+    border-color: #ECBF34;
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab:nth-child(4) > a:hover{
+    background-color: #ECBF34; 
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab.active:nth-child(4) > a{
+    background-color: #ECBF34; 
+    border-color: #ECBF34;
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab:nth-child(5) > a:hover{
+    background-color: #852229; 
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab.active:nth-child(5) > a{
+    background-color: #852229; 
+    border-color: #852229;
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab:nth-child(6) > a:hover{
+    background-color: #852229; 
+}
+body > div > div.site-main > section:nth-child(3) > div > div:nth-child(2) > div > div > ul > li.tab.active:nth-child(6) > a{
+    background-color: #852229; 
+    border-color: #852229;
+}
 /** Skin-border-color **/
 .ttm-btn-style-fill.ttm-btn-color-skincolor, 
 .ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark:hover,
@@ -859,6 +900,25 @@ nav.main-menu, .header_search .header_search_content,
 .ttm-tabs.ttm-tab-style-01 ul.tabs li.active a:after  {
     border-top-color: #259BCC ;
 }
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active:nth-child(1) a:after {
+    border-top-color: #259BCC
+}
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active:nth-child(2) a:after {
+    border-top-color: #259BCC
+}
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active:nth-child(3) a:after {
+    border-top-color: #ECBF34
+}
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active:nth-child(4) a:after {
+    border-top-color: #ECBF34
+}
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active:nth-child(5) a:after {
+    border-top-color: #852229
+}
+.ttm-tabs.ttm-tab-style-01 ul.tabs li.active:nth-child(6) a:after {
+    border-top-color: #852229
+}
+
 .header_search .header_search_content:before, .header_btn:before,
 .ttm-bgcolor-darkgrey .tooltip-bottom:before,
 .featured-icon-box.style1:hover ,

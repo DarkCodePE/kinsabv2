@@ -1627,7 +1627,7 @@ ul.social-icons{
     position: relative;
 }
 .widget_info {
-    padding-left: 50px;
+    padding-left: 0px;
 }
 .widget_info:after {
     content: "";
@@ -2377,6 +2377,9 @@ nav.main-menu .megamenu-content .title{
 .first-footer .featured-icon-box.icon-align-before-content .featured-title h3 {
     font-size: 28px;
     line-height: 32px;
+}
+.featured-title .height72{
+    height: 72px;
 }
 .first-footer .featured-icon-box.icon-align-before-content .featured-title h3,
 .first-footer .featured-icon-box.icon-align-before-content .featured-desc p {
